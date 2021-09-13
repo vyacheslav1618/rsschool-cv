@@ -13,7 +13,7 @@ My contacts:
 About me
 ----------------------------
 I am 27. I am looking for work with people who efforts a way to reach a solutions in hard tasks and who are _continuously_ improving their skills. The study of programming languages contributes to the performance of mental work for me. I love it.
-<h5>My strengths:</h5>
+<h4>My strengths:</h4>
 
 * Diligence
 * Quick learn
