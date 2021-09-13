@@ -1,7 +1,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://yt3.ggpht.com/a/AATXAJxM8qAyGEvhfLUcqOvQIfWFNVbOxZ3BxRezHbOiRQ=s900-c-k-c0xffffffff-no-rj-mo" alt="" width="200" height="200"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antonov Vyacheslav
 ----------------------------
-My contacts:
+My contacts
 ----------------------------
 * **phone:** +79832993045
 * **emails:** 
