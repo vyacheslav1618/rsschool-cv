@@ -9,7 +9,7 @@
 * **GitHub:** [vyacheslav1618](https://github.com/vyacheslav1618)
 * **CodeWars:** [vyacheslav6168](https://www.codewars.com/users/vyacheslav6168)
 
-##&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About me
 ----------------------------
 I am 27. I am looking for work with people who efforts a way to reach a solutions in hard tasks and who are _continuously_ improving their skills. The study of programming languages contributes to the performance of mental work for me. I love it.
 #####My strengths:
