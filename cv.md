@@ -1,7 +1,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://yt3.ggpht.com/a/AATXAJxM8qAyGEvhfLUcqOvQIfWFNVbOxZ3BxRezHbOiRQ=s900-c-k-c0xffffffff-no-rj-mo" alt="" width="200" height="200"/>
-#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antonov Vyacheslav
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;##Antonov Vyacheslav
 
-##My contacts:
+----------------------------
+My contacts:
 ----------------------------
 * **phone:** +79832993045
 * **emails:** 
@@ -10,7 +11,7 @@
 * **GitHub:** [vyacheslav1618](https://github.com/vyacheslav1618)
 * **CodeWars:** [vyacheslav6168](https://www.codewars.com/users/vyacheslav6168)
 
-##About me
+About me
 ----------------------------
 I am 27. I am looking for work with people who efforts a way to reach a solutions in hard tasks and who are _continuously_ improving their skills. The study of programming languages contributes to the performance of mental work for me. I love it.
 #####My strengths:
@@ -18,7 +19,7 @@ I am 27. I am looking for work with people who efforts a way to reach a solution
 * Quick learn
 * Optimization
 
-##Skills
+Skills
 ----------------------------
 * Java SE 8, 11
 * CSS 3
@@ -30,7 +31,7 @@ I am 27. I am looking for work with people who efforts a way to reach a solution
 * Hibernate ORM
 * Git
 
-##Code example
+Code example
 ----------------------------
  ```      
 public class StringSplit {
@@ -54,7 +55,7 @@ public class StringSplit {
 }
 ```
 
-##Education
+Education
 ----------------------------
 * **Siberian Federal University**
   * Termal and electricity plants. Bachelor, 2017.
