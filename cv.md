@@ -64,7 +64,7 @@ Education
   * [SQL Oracle Certification](https://www.udemy.com/course/sql-oracle-certification/ "SQL Oracle Certification")
   * [Java OCA Oracle](https://www.udemy.com/course/java-oca-oracle/ "Java OCA Oracle")
   * [Spring Framework](https://www.udemy.com/course/spring-framework/ "Spring Framework")
-  * [RS School (in progress...)](https://rs.school/ "RS School")
+* **[RS School (in progress...)](https://rs.school/ "RS School")**
 
 Languages
 ----------------------------
