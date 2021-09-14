@@ -1,0 +1,45 @@
+
+.logo {
+width : 200px;
+height: 200px;
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 20px;
+}
+
+.main-header {
+font-size: 24px;
+margin-top: 3px;
+margin-left: 0px;
+margin-bottom: 10px;
+font-size: 30px;
+font-weight: bold;
+border-bottom: 1px solid gray;
+}
+
+body{
+background-color: #F5F5F5;
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+font-size: 14px;
+}
+
+.header1{
+font-size: 22px;
+font-weight: bold;
+padding-left: 25px;
+border-bottom: 1px solid #C0C0C0;
+}
+
+.header2{
+font-size: 18px;
+font-weight: bold;
+padding-left: 8px;
+}
+
+#code-part{
+    background-color: #eafded;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    border: 1px solid #C0C0C0;
+}
