@@ -10,160 +10,162 @@
 </head>
 
 <body>
+    <div class="main-div">
+        <div>
+            <img class="logo" src="https://www.meme-arsenal.com/memes/36b78c8b7cd957e082f53148b74787ea.jpg"
+                alt="photo" />
+        </div>
 
-    <div>
-        <img class="logo" src="https://www.meme-arsenal.com/memes/36b78c8b7cd957e082f53148b74787ea.jpg" alt="photo" />
-    </div>
+        <div class="main-header">Vyacheslav Antonov</div>
 
-    <div class="main-header">Vyacheslav Antonov</div>
-
-    <div class="header1">
-        My contacts
-    </div>
-    <div>
-        <ul>
-            <li><b>phone: </b>+79832993045</li>
-            <li><b>emails: </b>
-                <ul>
-                    <li>
-                        <a href="normal301293@yandex.ru">main email</a>
-                    </li>
-                    <li>
-                        <a href="vyacheslav6168@gmail.com">secondary email</a>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <b>GitHub: </b>
-                <a href="https://github.com/vyacheslav1618" target="_blank">vyacheslav6168</a>
-            </li>
-            <li>
-                <b>CodeWars: </b>
-                <a href="https://www.codewars.com/users/vyacheslav6168" target="_blank">vyacheslav6168</a>
-
-            </li>
-        </ul>
-    </div>
-
-    <div class="header1">
-        About me
-    </div>
-
-    <div>
-        <p class="text1">I am 27. I am looking for work with people who efforts a way to reach a solutions in hard tasks
-            and who are continuously
-            improving their skills. The study of programming languages contributes to the performance of mental work for
-            me. I love
-            it.</p>
-        <div class="header2">
-            My strengths:
+        <div class="header1">
+            My contacts
         </div>
         <div>
             <ul>
-                <li>
-                    Diligence
+                <li><b>phone: </b>+79832993045</li>
+                <li><b>emails: </b>
+                    <ul>
+                        <li>
+                            <a href="normal301293@yandex.ru">main email</a>
+                        </li>
+                        <li>
+                            <a href="vyacheslav6168@gmail.com">secondary email</a>
+                        </li>
+                    </ul>
                 </li>
                 <li>
-                    Quick learn
+                    <b>GitHub: </b>
+                    <a href="https://github.com/vyacheslav1618" target="_blank">vyacheslav6168</a>
                 </li>
                 <li>
-                    Optimization
+                    <b>CodeWars: </b>
+                    <a href="https://www.codewars.com/users/vyacheslav6168" target="_blank">vyacheslav6168</a>
+
                 </li>
             </ul>
         </div>
-    </div>
 
-    <div class="header1">
-        Skills
-    </div>
-    <div>
-        <ul>
-            <li>Java SE 8, 11</li>
-            <li>CSS 3</li>
-            <li>HTML 5</li>
-            <li>Spring Framework</li>
-            <li>REST</li>
-            <li>MVC</li>
-            <li>My/Oracle SQL</li>
-            <li>Hibernate ORM</li>
-            <li>Git</li>
-        </ul>
-    </div>
+        <div class="header1">
+            About me
+        </div>
 
-    <div class="header1">
-        Code example
-    </div>
-    <div id="code-part">
-        <pre><code>
+        <div>
+            <p class="text1">&#160;&#160;&#160;&#160;&#160;&#160;&#160;I am 27. I am looking for work with people who efforts a way to reach a solutions in hard
+                tasks and who are continuously improving their skills. The study of programming languages contributes to the performance of mental work
+                for me. I love it.</p>
+            <div class="header2">
+                My strengths:
+            </div>
+            <div>
+                <ul>
+                    <li>
+                        Diligence
+                    </li>
+                    <li>
+                        Quick learn
+                    </li>
+                    <li>
+                        Optimization
+                    </li>
+                </ul>
+            </div>
+        </div>
 
-public class StringSplit {
-    public static String[] solution(String s) {
-        
-        if (s.length() % 2 != 0) {
-            String s1 = new StringBuilder().append(s).append("_").toString();
-            s = s1;
+        <div class="header1">
+            Skills
+        </div>
+        <div>
+            <ul>
+                <li>Java SE 8, 11</li>
+                <li>CSS 3</li>
+                <li>HTML 5</li>
+                <li>Spring Framework</li>
+                <li>REST</li>
+                <li>MVC</li>
+                <li>My/Oracle SQL</li>
+                <li>Hibernate ORM</li>
+                <li>Git</li>
+            </ul>
+        </div>
+
+        <div class="header1">
+            Code example
+        </div>
+        <div id="code-part">
+            <pre><code>
+    
+    public class StringSplit {
+        public static String[] solution(String s) {
+            
+            if (s.length() % 2 != 0) {
+                String s1 = new StringBuilder().append(s).append("_").toString();
+                s = s1;
+            }
+            String[] R = new String[s.length() / 2];
+            int z = 0;
+            for (int i = 0; i < s.length(); i=i + 2) {
+                char s1=s.charAt(i);
+                char s2=s.charAt(i + 1);
+                String o=new
+                StringBuilder().append(s1).append(s2).toString();
+                R[z]=o;
+                z++;
+            }
+            return R;
         }
-        String[] R = new String[s.length() / 2];
-        int z = 0;
-        for (int i = 0; i < s.length(); i=i + 2) {
-            char s1=s.charAt(i);
-            char s2=s.charAt(i + 1);
-            String o=new
-            StringBuilder().append(s1).append(s2).toString();
-            R[z]=o;
-            z++;
-        }
-        return R;
     }
-}
-        </code></pre>
+            </code></pre>
+        </div>
+
+        <div class="header1">
+            Education
+        </div>
+        <div>
+            <ul>
+                <li><b><a href="http://www.sfu-kras.ru/" target="_blank">Siberian Federal University</a></b>
+                    <ul>
+                        <li>
+                            Termal and electricity plants. Bachelor, 2017
+                        </li>
+                        <li>
+                            Improving of efficiency of thermal plants. Magister, 2019
+                        </li>
+                    </ul>
+                </li>
+                <li><b><a href="https://www.udemy.com/" target="_blank">Udemi</a></b>
+                    <ul>
+                        <li>
+                            <a href="https://www.udemy.com/course/sql-oracle-certification/" target="_blank">SQL Oracle
+                                Certification</a>
+                        </li>
+                        <li>
+                            <a href="https://www.udemy.com/course/java-oca-oracle/" target="_blank">Java OCA Oracle</a>
+                        </li>
+                        <li>
+                            <a href="https://www.udemy.com/course/spring-framework/" target="_blank">Spring
+                                Framework</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <b><a href="https://rs.school/" target="_blank">RS School</a></b>
+                </li>
+            </ul>
+        </div>
+
+        <div class="header1">
+            Languages
+        </div>
+        <div>
+            <ol>
+                <li>Russian - native speaker</li>
+                <li>English - B1</li>
+                <li>Norsk - A1</li>
+            </ol>
+        </div>
     </div>
 
-    <div class="header1">
-        Education
-    </div>
-    <div>
-        <ul>
-            <li><b><a href="http://www.sfu-kras.ru/" target="_blank">Siberian Federal University</a></b>
-                <ul>
-                    <li>
-                        Termal and electricity plants. Bachelor, 2017
-                    </li>
-                    <li>
-                        Improving of efficiency of thermal plants. Magister, 2019
-                    </li>
-                </ul>
-            </li>
-            <li><b><a href="https://www.udemy.com/" target="_blank">Udemi</a></b>
-                <ul>
-                    <li>
-                        <a href="https://www.udemy.com/course/sql-oracle-certification/" target="_blank">SQL Oracle
-                            Certification</a>
-                    </li>
-                    <li>
-                        <a href="https://www.udemy.com/course/java-oca-oracle/" target="_blank">Java OCA Oracle</a>
-                    </li>
-                    <li>
-                        <a href="https://www.udemy.com/course/spring-framework/" target="_blank">Spring Framework</a>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <b><a href="https://rs.school/" target="_blank">RS School</a></b>
-            </li>
-        </ul>
-    </div>
-
-    <div class="header1">
-        Languages
-    </div>
-    <div>
-        <ol>
-            <li>Russian - native speaker</li>
-            <li>English - B1</li>
-            <li>Norsk - A1</li>
-        </ol>
-    </div>
 </body>
 <footer>
     <div>
